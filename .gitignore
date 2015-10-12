@@ -1,0 +1,8 @@
+#exclude config.php - has db connection info
+includes/config.php
+
+#exclude includes/PHPMailer
+includes/PHPMailer/
+
+#exclude public_html/ckeditor
+public_html/ckeditor

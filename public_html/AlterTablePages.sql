@@ -1,0 +1,1 @@
+ALTER TABLE pages ADD COLUMN show_menu tinyint(1) NOT NULL default 1 AFTER menu_name;
