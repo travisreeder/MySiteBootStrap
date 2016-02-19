@@ -28,21 +28,21 @@ window.onload = function () {
         $("#education").toggle("fast");
     });
     
-    $(window).scroll(
-    {
-        previousTop: 0
-    }, 
-    function () {
-    var currentTop = $(window).scrollTop();
-        if (currentTop < this.previousTop) {
-            //$(".sidebar em").text("Up");
-            $("#wrapper").show('slow');
-        } else {
-            //$(".sidebar em").text("Down");
-            $("#wrapper").hide('slow');
-        }
-        this.previousTop = currentTop;
-    });
+//    $(window).scroll(
+//    {
+//        previousTop: 0
+//    }, 
+//    function () {
+//    var currentTop = $(window).scrollTop();
+//        if (currentTop < this.previousTop) {
+//            //$(".sidebar em").text("Up");
+//            $("#wrapper").show('slow');
+//        } else {
+//            //$(".sidebar em").text("Down");
+//            $("#wrapper").hide('slow');
+//        }
+//        this.previousTop = currentTop;
+//    });
     
 //    $("#accordion1 a").click(function() {
 //        //$("div p:first-child").css("border", "3px solid red");

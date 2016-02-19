@@ -8,9 +8,9 @@
 defined('DS') ? null : define('DS', DIRECTORY_SEPARATOR);
 
 // For my Mac	
-//defined('SITE_ROOT') ? null : define('SITE_ROOT', DS.'Users'.DS.'travisreeder'.DS.'Sites'.DS.'MySite');
+defined('SITE_ROOT') ? null : define('SITE_ROOT', DS.'Users'.DS.'travisreeder'.DS.'Sites'.DS.'MySiteBootStrap');
 // For my work PC
-defined('SITE_ROOT') ? null : define('SITE_ROOT', DS.'wamp'.DS.'www'.DS.'MySiteBootStrap');
+//defined('SITE_ROOT') ? null : define('SITE_ROOT', DS.'wamp'.DS.'www'.DS.'MySiteBootStrap');
 //defined('ADMIN_ROOT') ? null : define('ADMIN_ROOT', SITE_ROOT.DS.'admin');
 // For my hosted site
 //defined('SITE_ROOT') ? null: define('SITE_ROOT', DS.'home'.DS.'trav06gt');
