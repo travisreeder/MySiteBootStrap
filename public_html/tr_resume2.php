@@ -4,7 +4,7 @@
                 <p id="name">Travis W. Reeder</p>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                <a class="email" href="mailto:travisreeder@msn.com"><p>travisreeder@msn.com</p></a>
+                <a class="email" href="mailto:traviswreeder@gmail.com"><p>traviswreeder@gmail.com</p></a>
             </div>
         </div>
 
@@ -52,7 +52,7 @@
             <div class="row">
                 <div class="col-xs-11 col-xs-offset-1 col-sm-11 col-md-11">
                     <ul>
-                        <li class="col-xs-12 col-sm-4 col-md-4 col-lg-3">Java, C, C++</li>
+                        <li class="col-xs-12 col-sm-4 col-md-4 col-lg-3">HTML, CSS, JavaScript, PHP, Java, C, C++</li>
                         <li class="col-xs-12 col-sm-4 col-md-4 col-lg-3">Oracle, MS SQL Server, PostgreSQL</li>
                         <li class="col-xs-12 col-sm-4 col-md-4 col-lg-3">Apache/Tomcat, JBoss, WebLogic</li>
                         <li class="col-xs-12 col-sm-4 col-md-4 col-lg-3">ClearCase, GIT</li>
@@ -110,7 +110,7 @@
                         <p class="company">Pearson, Centennial, CO</p>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <p class="daterange">Mar 2015 - Present</p>
+                        <p class="daterange">Mar 2015 - Feb 2016</p>
                     </div>
                 </div>
                 <div class="row">
