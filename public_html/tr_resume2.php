@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-lg-12">
             
-                <p><b>IT Executive</b> offering over 25 years of software system engineering experience, with a track record of successes in team development, leadership, project management as well as development and implementation of large, complex web-based IT projects.</p>
+                <p><b>Experienced Software Professional </b> offering over 25 years of software system engineering experience, with a track record of successes in team development, leadership, project management as well as development and implementation of large, complex web-based IT projects.</p>
             
             </div>
         </div>
@@ -105,6 +105,25 @@
             </div>
         </div>
             <div id="experience">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <p class="company">PTC, Castle Rock, CO (Home Office)</p>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <p class="daterange">Mar 2016 - Present</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <p class="jobtitle"><br />Senior PLM Consultant - Application Architect</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <p>Successfully led the deployment and implementation of the Customer Experience Management solution for a large medical device company in Boston. Led the consulting team in planning, analysis, development, testing and implementation of applications to ensure they meet client expectations.
+                        </p><br />
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                         <p class="company">Pearson, Centennial, CO</p>
